@@ -7,7 +7,7 @@ The Game of life is two dimensional orthogonal grid of square cells, each of whi
 
 A gospers glider gun is a pattern founded by a group in MIT it generates a glider(spaceship pattern) every 120th generation.
 Using those guns we designed "and" logic gate.AND gate logic states that if both the input conditions are True (logic 1) then only output will be true else whatsoever the input condition is output will always be False(logic 0).
-*   A B output
+*  A B output
 1. 0 0 0
 2. 0 1 0
 3. 1 0 0
